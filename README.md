@@ -1,6 +1,6 @@
 ## Hello 👋🏾
 
-#### I am a full stack developer with 3+ years of industry experience building web applications.
+#### A versatile Data Scientist with 3+ years of experience in software development and skills required to develop maintainable, efficient, and scalable data products. I am eager to leverage statistical and machine learning techniques to produce valuable insights, drive predictive modeling initiatives, and deliver actionable solutions that aid business growth and data-driven decision-making.
 
 ---
 
