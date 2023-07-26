@@ -1,6 +1,12 @@
 ## Hello 👋🏾
 
-#### A versatile Data Scientist with 3+ years of experience in software development and skills required to develop maintainable, efficient, and scalable data products. I am eager to leverage statistical and machine learning techniques to produce valuable insights, drive predictive modeling initiatives, and deliver actionable solutions that aid business growth and data-driven decision-making.
+#### A versatile Data Scientist with 3+ years of experience in software development and skills required to develop maintainable, efficient, and scalable data products. I am eager to leverage statistical and machine learning techniques to produce valuable insights, drive predictive modelling initiatives, and deliver actionable solutions that aid business growth and data-driven decision-making.
+
+---
+
+<!--- 🔭 I’m currently working on ML -->
+- 🌱 I’m currently learning Deep Learning techniques and the basics of Data Engineering
+
 
 ---
 
